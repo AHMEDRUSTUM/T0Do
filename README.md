@@ -10,6 +10,9 @@ This is a simple Todo application built using Java Swing. The application allows
 
 ## Screenshot
 
+![todo_img](https://github.com/AHMEDRUSTUM/T0Do/assets/164236168/a28c3570-54ab-4842-bedd-03772e890f70)
+
+
 
 
 ## Usage
